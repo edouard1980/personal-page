@@ -1,0 +1,42 @@
+
+body {
+    text-align: center;
+    background-color: rgb(100, 100,100);
+}
+
+h1{
+    text-align: center;
+}
+img {
+  text-align: center;
+}
+
+ 
+.style-div {
+    margin: 20px;
+    border-radius: 4px;
+    background-color: rgb(163, 180, 224);
+    padding: 2rem;
+}
+ 
+#profilo {
+    border-radius: 50%;
+}
+.btn-blue{
+    background-color: royalblue(125, 125, 246);
+    color: silver(240, 240, 240);
+}
+.btn{
+    padding:( 12px, 16px);
+    border-radius: 4px;
+}
+a {
+    text-decoration: none;
+}
+
+
+
+
+
+   
+
